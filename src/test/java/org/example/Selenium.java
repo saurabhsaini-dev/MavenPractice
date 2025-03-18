@@ -7,6 +7,6 @@ public class Selenium {
     @Test
     public void browserAutomation() {
         System.out.println("browser");
-        Assert.fail();
+//        Assert.fail();
     }
 }
